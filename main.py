@@ -1,7 +1,6 @@
 import telebot
 from telebot.types import Message, ReplyKeyboardMarkup, KeyboardButton
 import os
-from dotenv import load_dotenv
 import json
 import api
 import time
@@ -9,8 +8,8 @@ import threading
 time.sleep(5)
 
 # load_dotenv()
-API_KEY = os.environ("API_KEY")
-token = os.environ("TOKEN")
+API_KEY = os.environ["API_KEY"]
+token = os.environ["TOKEN"]
 bot=telebot.TeleBot(token)
 maps_images = {
     "de_nuke":"https://assets.faceit-cdn.net/third_party/games/ce652bd4-0abb-4c90-9936-1133965ca38b/assets/votables/7197a969-81e4-4fef-8764-55f46c7cec6e_1695819158849.jpeg",

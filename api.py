@@ -1,11 +1,10 @@
 import requests
 import os
-from dotenv import load_dotenv
 import json
 import time
 
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
+
+API_KEY = os.environ["API_KEY"]
 headers = {
     'accept': 'application/json',
     'Authorization': 'Bearer '+ API_KEY,
