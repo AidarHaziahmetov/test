@@ -1,0 +1,38 @@
+{
+  "993530132": {
+    "nickname": "Good_job312",
+    "avatar": "https://distribution.faceit-cdn.net/images/377e48f9-4e33-42b9-bd1a-a0c8222ecff2.jpeg",
+    "level": 4,
+    "elo": 931,
+    "player_id": "134b1417-5b1f-4cc7-a00d-6da2dba02724",
+    "last_match": {
+      "Map": "de_overpass",
+      "Result": "1",
+      "Score": "13 / 10",
+      "Kills": "20",
+      "Deaths": "19",
+      "K/D Ratio": "1.05",
+      "Headshots %": "25",
+      "K/R Ratio": "0.87",
+      "Match Id": "1-4f1e3d27-c636-4719-b010-9a076a051890"
+    }
+  },
+  "1538237007": {
+    "nickname": "Player_F",
+    "avatar": "https://assets.faceit-cdn.net/avatars/327b20c2-df68-4974-b92c-f6ccb1effc93_1623509410139.jpg",
+    "level": 4,
+    "elo": 956,
+    "player_id": "327b20c2-df68-4974-b92c-f6ccb1effc93",
+    "last_match": {
+      "Map": "de_overpass",
+      "Result": "1",
+      "Score": "13 / 10",
+      "Kills": "12",
+      "Deaths": "18",
+      "K/D Ratio": "0.67",
+      "Headshots %": "42",
+      "K/R Ratio": "0.52",
+      "Match Id": "1-4f1e3d27-c636-4719-b010-9a076a051890"
+    }
+  }
+}
